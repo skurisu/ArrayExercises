@@ -25,5 +25,5 @@ once you are done, commit and push this branch.
 then, continue on to the next level  
 
 
-`git checkout level_3` and so on.
+`git checkout level_3` and so ons.
 
